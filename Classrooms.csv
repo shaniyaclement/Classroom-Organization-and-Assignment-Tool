@@ -1,0 +1,142 @@
+Campus,Building,Abbreviation,Number,Name,RoomTypeGroup,RoomType,Description,Floor,MaxOccupancy
+Main,Chapel,CHAP,1,CHAP 001,Default,O,Chapel,1,800
+Main,Talley-Brady Hall,CHEM,200,CHEM 200,Default,C,Laboratory,1,10
+Main,Talley-Brady Hall,CHEM,209,CHEM 209,Default,C,Classroom,1,24
+Main,Talley-Brady Hall,CHEM,303,CHEM 303,Default,C,Lab,1,17
+Main,Talley-Brady Hall,CHEM,308,CHEM 308,Default,C,Classroom,1,28
+Main,Talley-Brady Hall,CHEM,CONF RM,CHEM CONF RM,Default,C,Conference Room,1,50
+Main,Talley-Brady Hall,CHEM,LEC,CHEM LEC,Default,C,Lecture Hall,1,50
+Main,Harris Music Building,HARIS,1,HARIS 001,Default,C,Classroom,1,19
+Main,Harris Music Building,HARIS,101,HARIS 101,Default,C,Voice Studio,1,5
+Main,Harris Music Building,HARIS,102,HARIS 102,Default,C,Piano Student,1,5
+Main,Harris Music Building,HARIS,103,HARIS 103,Default,C,Piano Lab,1,5
+Main,Harris Music Building,HARIS,105,HARIS 105,Default,C,Classroom,1,2
+Main,Harris Music Building,HARIS,111,HARIS 111,Default,C,Jubilee Rehearsal Room,1,25
+Main,Harris Music Building,HARIS,104,HARIS 104,Default,O,Office,1,2
+Main,Harris Music Building,HARIS,106,HARIS 106,Default,O,Organ Room,1,5
+Main,Harris Music Building,HARIS,107,HARIS 107,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,108,HARIS 108,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,109,HARIS 109,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,110,HARIS 110,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,113,HARIS 113,Default,O,Office,1,5
+Main,W.E.B. DuBois Honors Center,HONOR,1,HONOR 001,Default,C,Classroom,1,30
+Main,W.E.B. DuBois Honors Center,HONOR,2,HONOR 002,Default,O,Seminar Room,1,10
+Main,New Livingstone,NEWLV,001,NEWLV 001,Default,C,Classroom,1,38
+Main,New Livingstone,NEWLV,002,NEWLV 002,Default,C,Classroom,1,53
+Main,New Livingstone,NEWLV,003,NEWLV 003,Default,C,Classroom,1,46
+Main,New Livingstone,NEWLV,004,NEWLV 004,Default,C,Classroom,1,50
+Main,Park Johnson,PARKJ,103,PARKJ 103,Default,C,Classroom,1,45
+Main,Park Johnson,PARKJ,107,PARKJ 107,Default,C,Classroom,1,45
+Main,Park Johnson,PARKJ,112,PARKJ 112,Default,C,Classroom,1,40
+Main,Park Johnson,PARKJ,122,PARKJ 122,Default,C,Auditorium,1,180
+Main,Park Johnson,PARKJ,201,PARKJ 201,Default,C,Classroom,2,40
+Main,Park Johnson,PARKJ,203,PARKJ 203,Default,C,Classroom,2,45
+Main,Park Johnson,PARKJ,205,PARKJ 205,Default,C,Classroom,2,25
+Main,Park Johnson,PARKJ,206,PARKJ 206,Default,C,Classroom,2,40
+Main,Park Johnson,PARKJ,208,PARKJ 208,Default,C,Classroom,2,40
+Main,Park Johnson,PARKJ,209,PARKJ 209,Default,C,Classroom,2,40
+Main,Park Johnson,PARKJ,224,PARKJ 224,Default,C,Classroom,2,20
+Main,Park Johnson,PARKJ,301,PARKJ 301,Default,C,Classroom,3,35
+Main,Park Johnson,PARKJ,303,PARKJ 303,Default,C,Classroom,3,50
+Main,Park Johnson,PARKJ,305,PARKJ 305,Default,C,Classroom,3,40
+Main,Park Johnson,PARKJ,308,PARKJ 308,Default,C,Classroom,3,45
+Main,Park Johnson,PARKJ,322,PARKJ 322,Default,C,Classroom,3,30
+Main,Park Johnson,PARKJ,324,PARKJ 324,Default,C,Classroom,3,30
+Main,Science Lab,SCILB,101,SCILB 101,Default,C,Lab,1,35
+Main,Science Lab,SCILB,102,SCILB 102,Default,C,Lab,1,35
+Main,Science Lab,SCILB,103,SCILB 103,Default,C,Classroom,1,35
+Main,Science Lab,SCILB,104,SCILB 104,Default,C,Lab,1,35
+Main,Theather,THEA,1,THEA 001,Default,O,Audortium,1,50
+Main,Park Johnson,PARKJ,302,PARKJ 302,Default,C,Classroom,3,10
+Main,Carnegie Academic Building,ACAD,205,ACAD 205,Default,C,Classroom,2,10
+Main,Carnegie Academic Building,ACAD,210,ACAD 210,Default,C,Classroom,2,25
+Main,Carnegie Academic Building,ACAD,B01,ACAD B01,Default,C,Sun Lab,1,12
+Main,Carnegie Academic Building,ACAD,B02,ACAD B02,Default,C,Computer Science Lab,1,20
+Main,Carnegie Academic Building,ACAD,B03,ACAD B03,Default,C,Microcomputer Lab,1,22
+Main,Basic College,BCOL,100,BCOL 100,Default,C,Classroom,1,30
+Main,Basic College,BCOL,101,BCOL 101,Default,C,Classroom,1,30
+Main,Basic College,BCOL,102,BCOL 102,Default,C,Classroom,1,30
+Main,Basic College,BCOL,103,BCOL 103,Default,C,Classroom,1,30
+Main,Basic College,BCOL,103,BCOL 103,Default,C,Classroom,1,30
+Main,Basic College,BCOL,104,BCOL 104,Default,C,Classroom,1,30
+Main,Basic College,BCOL,107,BCOL 107,Default,C,Classroom,1,30
+Main,Basic College,BCOL,108,BCOL 108,Default,C,Classroom,1,30
+Main,Basic College,BCOL,201,BCOL 201,Default,C,Classroom,2,30
+Main,Basic College,BCOL,203,BCOL 203,Default,C,Classroom,2,30
+Main,Basic College,BCOL,204,BCOL 204,Default,C,Classroom,2,30
+Main,Basic College,BCOL,205,BCOL 205,Default,C,Classroom,2,30
+Main,Chapel,CHAP,1,CHAP 001,Default,O,Chapel,1,800
+Main,Talley-Brady Hall,CHEM,200,CHEM 200,Default,C,Laboratory,2,10
+Main,Talley-Brady Hall,CHEM,209,CHEM 209,Default,C,Classroom,2,24
+Main,Talley-Brady Hall,CHEM,303,CHEM 303,Default,C,Lab,3,17
+Main,Talley-Brady Hall,CHEM,308,CHEM 308,Default,C,Classroom,3,28
+Main,Talley-Brady Hall,CHEM,CONF RM,CHEM CONF RM,Default,C,Conference Room,1,50
+Main,Talley-Brady Hall,CHEM,LEC,CHEM LEC,Default,C,Lecture Hall,1,50
+Main,Crosthwaite Hall,CROST,100,CROST 100,Default,C,Classroom,1,21
+Main,Cravath Administration Bldg,CRVTH,205,CRVTH 205,Default,O,Office,2,5
+Main,DuBois Hall,DUBOS,217,DUBOS 217,Default,C,Classroom,2,12
+Main,DuBois Hall,DUBOS,234,DUBOS 234,Default,C,Classroom,2,8
+Main,DuBois Hall,DUBOS,250,DUBOS 250,Default,C,Classroom,2,25
+Main,DuBois Hall,DUBOS,206,DUBOS 206,Default,O,Office,2,20
+Main,DuBois Hall,DUBOS,318,DUBOS 318,Default,O,Office,3,10
+Main,Harris Music Building,HARIS,1,HARIS 001,Default,C,Classroom,1,19
+Main,Harris Music Building,HARIS,101,HARIS 101,Default,C,Voice Studio,1,5
+Main,Harris Music Building,HARIS,102,HARIS 102,Default,C,Piano Student,1,5
+Main,Harris Music Building,HARIS,103,HARIS 103,Default,C,Piano Lab,1,5
+Main,Harris Music Building,HARIS,105,HARIS 105,Default,C,Classroom,1,2
+Main,Harris Music Building,HARIS,111,HARIS 111,Default,C,Jubilee Rehearsal Room,1,25
+Main,Harris Music Building,HARIS,104,HARIS 104,Default,O,Office,1,2
+Main,Harris Music Building,HARIS,106,HARIS 106,Default,O,Organ Room,1,5
+Main,Harris Music Building,HARIS,107,HARIS 107,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,108,HARIS 108,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,109,HARIS 109,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,110,HARIS 110,Default,O,Piano Practice Room,1,2
+Main,Harris Music Building,HARIS,113,HARIS 113,Default,O,Office,1,5
+Main,W.E.B. DuBois Honors Center,HONOR,1,HONOR 001,Default,C,Classroom,1,30
+Main,W.E.B. DuBois Honors Center,HONOR,2,HONOR 002,Default,O,Seminar Room,1,10
+Main,Int'l Student Center,ISC,1,ISC 001,Default,O,Dance Studio,1,20
+Main,Jubilee Hall,JUBL,1,JUBL 001,Default,O,Appleton Room,1,221
+Main,Library,LIBR,72,LIBR 072,Default,C,Classroom,1,50
+Main,Library,LIBR,B1,LIBR B1,Default,C,LRC Big lab,1,25
+Main,Library,LIBR,B2,LIBR B2,Default,C,LRC Small Lab,1,8
+Main,Library,LIBR,1,LIBR 001,Default,O,Library,1,38
+Main,Learning Resource Center,LRC,B1,LRC B1,Default,C,Classroom,1,25
+Main,Meharry Medical College,MHARY,1,MHARY 001,Default,C,Classroom,1,30
+Main,New Livingstone,NEWLV,1,NEWLV 001,Default,C,Classroom,1,38
+Main,New Livingstone,NEWLV,2,NEWLV 002,Default,C,Classroom,1,53
+Main,New Livingstone,NEWLV,3,NEWLV 003,Default,C,Classroom,1,46
+Main,New Livingstone,NEWLV,4,NEWLV 004,Default,C,Classroom,1,50
+Main,Park Johnson,PARKJ,103,PARKJ 103,Default,C,Classroom,1,45
+Main,Park Johnson,PARKJ,107,PARKJ 107,Default,C,Classroom,1,45
+Main,Park Johnson,PARKJ,112,PARKJ 112,Default,C,Classroom,1,40
+Main,Park Johnson,PARKJ,122,PARKJ 122,Default,C,Auditorium,1,180
+Main,Park Johnson,PARKJ,201,PARKJ 201,Default,C,Classroom,1,40
+Main,Park Johnson,PARKJ,203,PARKJ 203,Default,C,Classroom,1,45
+Main,Park Johnson,PARKJ,205,PARKJ 205,Default,C,Classroom,1,25
+Main,Park Johnson,PARKJ,206,PARKJ 206,Default,C,Classroom,1,40
+Main,Park Johnson,PARKJ,208,PARKJ 208,Default,C,Classroom,1,40
+Main,Park Johnson,PARKJ,209,PARKJ 209,Default,C,Classroom,1,40
+Main,Park Johnson,PARKJ,224,PARKJ 224,Default,C,Classroom,1,20
+Main,Park Johnson,PARKJ,301,PARKJ 301,Default,C,Classroom,1,35
+Main,Park Johnson,PARKJ,303,PARKJ 303,Default,C,Classroom,1,50
+Main,Park Johnson,PARKJ,305,PARKJ 305,Default,C,Classroom,1,40
+Main,Park Johnson,PARKJ,308,PARKJ 308,Default,C,Classroom,1,45
+Main,Park Johnson,PARKJ,322,PARKJ 322,Default,C,Classroom,1,30
+Main,Park Johnson,PARKJ,324,PARKJ 324,Default,C,Classroom,1,30
+Main,Science Lab,SCILB,101,SCILB 101,Default,C,Lab,1,35
+Main,Science Lab,SCILB,102,SCILB 102,Default,C,Lab,1,35
+Main,Science Lab,SCILB,103,SCILB 103,Default,C,Classroom,1,35
+Main,Science Lab,SCILB,104,SCILB 104,Default,C,Lab,1,35
+Main,To Be Announced,TBA,TBA,TBA TBA,Default,C,To Be announced,1,50
+Main,Theather,THEA,1,THEA 001,Default,O,Audortium,1,50
+Main,Tennessee State University,TSU,1,TSU 001,Default,C,Classroom,1,30
+Main,Carl Van Vechten Gallery,VVG,1,VVG 001,Default,O,Gallery,1,30
+Main,Cravath Administration Bldg,CRVTH,310,CRVTH 310,Default,C,President's conference room,3,20
+Main,Park Johnson,PARKJ,Online,For Online Clas Use,Default,O,For Online Clas Use,0,30
+Main,Park Johnson,PARKJ,Blended,For Blended Class Use,Default,O,For Blended Class Use,0,30
+Main,ONLINE ,ONLIN,online,Online Courses,Default,Online,,0,0
+Main,DuBois Hall,DUBOS,350,DUBOS 350,Default,C,Classroom,3,25
+Main,Park Johnson,PARKJ,302,PARKJ 302,Default,C,Classroom,3,10
+Main,Park Johnson,PARKJ,101,Classroom,Default,C,Conference Room,1,10
+Main,Jubilee Hall,JUBL,B 14,JUBL,Default,C,Classroom,0,0
+Main,Clarksville,CLARK,0,Clarksville,Default,C,Clarksville,0,0
