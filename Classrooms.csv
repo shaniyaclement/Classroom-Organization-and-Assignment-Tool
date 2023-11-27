@@ -127,16 +127,12 @@ Main,Science Lab,SCILB,101,SCILB 101,Default,C,Lab,1,35
 Main,Science Lab,SCILB,102,SCILB 102,Default,C,Lab,1,35
 Main,Science Lab,SCILB,103,SCILB 103,Default,C,Classroom,1,35
 Main,Science Lab,SCILB,104,SCILB 104,Default,C,Lab,1,35
-Main,To Be Announced,TBA,TBA,TBA TBA,Default,C,To Be announced,1,50
 Main,Theather,THEA,1,THEA 001,Default,O,Audortium,1,50
-Main,Tennessee State University,TSU,1,TSU 001,Default,C,Classroom,1,30
 Main,Carl Van Vechten Gallery,VVG,1,VVG 001,Default,O,Gallery,1,30
 Main,Cravath Administration Bldg,CRVTH,310,CRVTH 310,Default,C,President's conference room,3,20
 Main,Park Johnson,PARKJ,Online,For Online Clas Use,Default,O,For Online Clas Use,0,30
 Main,Park Johnson,PARKJ,Blended,For Blended Class Use,Default,O,For Blended Class Use,0,30
-Main,ONLINE ,ONLIN,online,Online Courses,Default,Online,,0,0
 Main,DuBois Hall,DUBOS,350,DUBOS 350,Default,C,Classroom,3,25
 Main,Park Johnson,PARKJ,302,PARKJ 302,Default,C,Classroom,3,10
 Main,Park Johnson,PARKJ,101,Classroom,Default,C,Conference Room,1,10
 Main,Jubilee Hall,JUBL,B 14,JUBL,Default,C,Classroom,0,0
-Main,Clarksville,CLARK,0,Clarksville,Default,C,Clarksville,0,0
