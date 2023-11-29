@@ -3,11 +3,12 @@ import csv
 from datetime import datetime
 
 class Assignment:
-    classrooms = 'Classrooms_Demo.csv'
+    classrooms = 'Classrooms.csv'
     course_catalog = 'Course_Catalog.csv'
     assigned_courses = 'Assigned_Courses.csv'
     conflicting_courses = 'Conflicting_Courses.csv'
-    assigned_buildngs = {'ART': ['JUB'], 'ACC': ['PARKJ']}
+    online_course = ['Main','Online','ONL',',','Online','Online','Online','Online',',']
+    assigned_buildngs = {'ACC': ['PARKJ'], 'ART': ['JUBL'], 'BAD': ['PARKJ'], 'CSCI': ['SCILB']}
 
     # Initialize a dictionary to track classroom availability
     def assign_availability(classrooms):
@@ -35,11 +36,15 @@ class Assignment:
             i += 1
         return course_days_split
     
-    def check_classroom_availability(classroom, course_start, course_end, course_days, course_capacity):
+    def check_classroom_availability(classroom, department, course_start, course_end, course_days, course_capacity):
         # Check if course capacity exceeds the room capacity
         if (int(course_capacity) > int(classroom['info'][9])):
             print(f"Exceeds capacity: {course_capacity} > {classroom['info'][9]}")
             return False
+        elif department in Assignment.assigned_buildngs:
+            if classroom['info'][2] not in Assignment.assigned_buildngs[department]:
+                print(classroom['info'][2], Assignment.assigned_buildngs[department])
+                return False
         new_interval = (course_start, course_end)
         for day in course_days:
             for course_time in classroom[day]:
@@ -89,7 +94,7 @@ class Assignment:
         # Add course to the end of the CSV file
         with open(Assignment.conflicting_courses, 'a') as csv_file:
             csv_file.write(course + '\n')
-       
+
     def assign_classroom():
         classroom_availability = Assignment.assign_availability(Assignment.classrooms)
         # Read the course catalog
@@ -112,17 +117,14 @@ class Assignment:
                 # Online courses do not need room assignments 
                 if 'ONL' in course_id:
                     print("ONL course")
-                    Assignment.add_course({'info':['Main','Online','ONL',',','Online','Online','Online','Online',',']}, course, course_start, course_end, course_days)
+                    Assignment.add_course({'info': Assignment.online_course}, course, course_start, course_end, course_days)
                 else:
                     print(course_name)
                     # while loop somewhere
                     for classroom in classroom_availability:
-                        available = Assignment.check_classroom_availability(classroom_availability[classroom], course_start, course_end, course_days, course_capacity)
+                        available = Assignment.check_classroom_availability(classroom_availability[classroom], department, course_start, course_end, course_days, course_capacity)
                         if available == True:
                             Assignment.add_course(classroom_availability[classroom], course, course_start, course_end, course_days)
                             break
                     if available == False:
                         Assignment.conflicts(course)
-                       
-# TODO: rooms need to be in a specific building
-# Accounts for ONL classes, write courses with conflicts to a seperate file, classroom capacity,

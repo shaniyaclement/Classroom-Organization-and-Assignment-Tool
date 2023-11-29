@@ -100,6 +100,12 @@ Main,Library,LIBR,72,LIBR 072,Default,C,Classroom,1,50
 Main,Library,LIBR,B1,LIBR B1,Default,C,LRC Big lab,1,25
 Main,Library,LIBR,B2,LIBR B2,Default,C,LRC Small Lab,1,8
 Main,Library,LIBR,1,LIBR 001,Default,O,Library,1,38
+Main,Library,LIBR,317,LIBR 317,Default,C,LRC Classroom,1,25
+Main,Library,LIBR,318,LIBR 318,Default,C,LRC Classroom,1,25
+Main,Library,LIBR,319,LIBR 319,Default,C,LRC Classroom,1,25
+Main,Library,LIBR,320,LIBR 320,Default,C,LRC Classroom,1,25
+Main,Library,LIBR,321,LIBR 321,Default,C,LRC Classroom,1,25
+Main,Library,LIBR,322,LIBR 322,Default,C,LRC Classroom,1,25
 Main,Learning Resource Center,LRC,B1,LRC B1,Default,C,Classroom,1,25
 Main,Meharry Medical College,MHARY,1,MHARY 001,Default,C,Classroom,1,30
 Main,New Livingstone,NEWLV,1,NEWLV 001,Default,C,Classroom,1,38
@@ -135,4 +141,6 @@ Main,Park Johnson,PARKJ,Blended,For Blended Class Use,Default,O,For Blended Clas
 Main,DuBois Hall,DUBOS,350,DUBOS 350,Default,C,Classroom,3,25
 Main,Park Johnson,PARKJ,302,PARKJ 302,Default,C,Classroom,3,10
 Main,Park Johnson,PARKJ,101,Classroom,Default,C,Conference Room,1,10
-Main,Jubilee Hall,JUBL,B 14,JUBL,Default,C,Classroom,0,0
+Main,Jubilee Hall,JUBL,B09,JUBL,Default,C,Classroom,0,25
+Main,Jubilee Hall,JUBL,B11,JUBL,Default,C,Classroom,0,25
+Main,Jubilee Hall,JUBL,B14,JUBL,Default,C,Classroom,0,25

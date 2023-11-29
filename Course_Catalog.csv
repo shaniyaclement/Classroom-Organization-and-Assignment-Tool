@@ -1,10 +1,13 @@
 Department,Course ID-Section,Course Name,Course Days,Start Time,End Time, Capacity
-ACC,230-01,Principles of Accounting I,TTR,1100,1215, 25
-ACC,230-ONL01,Principles of Accounting I,MTWTRF,0001,0002, 35
-ACC,300-01,Cost Accounting and Control,TTR,1300,1415, 20
-ACC,310-01,Intermediate Financial Acc.,TTR,1300,1415, 28
-ART,101-01,Life Drawing and Composition,TTR,1100,1215, 22
-ART,101-02,Life Drawing and Composition,TTR,1300,1415, 30
-ART,111-01,Elementary Design,T,1300,1600, 23
-ART,115-01,Design Fundamentals,F,800,1100, 25
-ART,201-01,Methods/Materials Painting,M,1300,1600, 20
+ACC,230-01,Principles of Accounting I,TTR,1100,1215,25
+ACC,230-ONL01,Principles of Accounting I,MTWTRF,0001,0002,35
+ACC,300-01,Cost Accounting and Control,TTR,1300,1415,20
+ART,101-01,Life Drawing and Composition,TTR,1100,1215,22
+ART,111-01,Elementary Design,T,1300,1600,23
+ART,115-01,Design Fundamentals,F,800,1100,25
+BAD,110-01,Business Information Systems,MWF,830,945,25
+BAD,110-01,Business Information Systems,TTR,830,945,25
+BAD,220-ONL01,Business Law,TTR,1300,1415,22
+CSCI,241-01,Data Structures and Algorithms,TTR,1000,1120,25
+CSCI,291-01,Theory of Computation,TTR,1300,1425,25
+CSCI,310-01,Junior Seminar,W,1500,1600,25
